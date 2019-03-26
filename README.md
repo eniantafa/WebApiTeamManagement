@@ -3,7 +3,7 @@ WebApi to manage Football Team Components
 REST API using ASP.NET Core, Entity Framework Core and Code First Pattern##
 
 Technologies used:
-•	ASP.NET Core •	Entity Framework Core •	Entity Framework Migrations – Code First •	Repository pattern
+•	ASP.NET Core •	Entity Framework Core •	Entity Framework Migrations – Code First 
 
 1.	Installing .NET Core
 To install .NET Core please follow the steps on the official web site https://www.microsoft.com/net/core#windowsvs2015
@@ -17,7 +17,7 @@ To install .NET Core please follow the steps on the official web site https://ww
 
 -Run the following commands (they will create the database schema on your database environment):
 
-	dotnet ef migrations add MyMigration
+	dotnet ef migrations add FirstMigration
 
 	dotnet ef database update
 3.	Build and Run
