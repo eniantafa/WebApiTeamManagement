@@ -7,7 +7,8 @@ Technologies used:
 •	ASP.NET Core •	Entity Framework Core •	Entity Framework Migrations – Code First 
 
 1.	Installing .NET Core
-To install .NET Core please follow the steps on the official web site https://www.microsoft.com/net/core#windowsvs2015
+To install .NET Core please follow the steps on the official web site 
+https://dotnet.microsoft.com/download/dotnet-core
 
 2.	Opening project
 -Open the solution in VS 2017
